@@ -15,14 +15,10 @@
 - ⚡ Fun fact: I speak 3 languages ( English, French, Lingala)
 
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felicien-misseba) 
-
-
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://felicienmisseba.link) 
+###  Connect with me:
+-  Let's connect! --> <code><a href="https://www.linkedin.com/in/felicien-misseba/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"> LinkedIn</a></code> <code><a href="https://felicienmisseba.link" target="_blank" title="Website Profile"><img alt="Website Logo" width="22" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-256.png"> Personal Blog</a></code>
+ 
 <br />
-
-
 
 ### Languages and Tools:
 
