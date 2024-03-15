@@ -4,7 +4,7 @@
 </h1>
 
 
-## I'm a Devops passionate and Creator!!
+## ☁️ I'm a Devops passionate and Creator!!
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> You can find my projects here [portfolio]
 - 🌱 I’m currently learning AWS and Cloud technologies
 - 💬 Ask me about ... Anything
