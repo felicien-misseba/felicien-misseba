@@ -1,14 +1,15 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=felicien-misseba.felicien-misseba" />
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Felicien+Misseba !;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Felicien+Misseba+!;" />
 </h1>
 
 <h3 align="center">A DevOps enthousiast from the US</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felicien-misseba&label=Profile%20views&color=0e75b6&style=flat" alt="felicien-misseba" /> </p>
+<div align="center"> 🌱 I’m currently learning Docker, Terraform </div>
 
-- 🌱 I’m currently learning **Docker, Terraform**
 
-- 📝 I regularly write articles on [felicienmisseba.link](felicienmisseba.link)
+<div align="center">📝 I regularly write articles on <a href="https://www.felicienmisseba.link/">felicienmisseba.link</a> <div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
