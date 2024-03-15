@@ -3,7 +3,7 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Felicien+Misseba+!;" />
 </h1>
 
- <img align="right" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="400" height="200" />
+ <img align="right" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="500" height="200" />
 
 
 ## I'm a Devops passionate and Creator!!
@@ -11,10 +11,7 @@
 - 🌱 I’m currently learning AWS and Cloud technologies
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 3 languages (English, French, Lingala)
-
-
-###  Connect with me:
--  Let's connect! --> <code><a href="https://www.linkedin.com/in/felicien-misseba/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png"> LinkedIn</a></code> <code><a href="https://felicienmisseba.link" target="_blank" title="Website Profile"><img alt="Website Logo" width="22" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-256.png"> Personal website</a></code>
+- 🌐 Let's connect! --> <code><a href="https://www.linkedin.com/in/felicien-misseba/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png"> LinkedIn</a></code> <code><a href="https://felicienmisseba.link" target="_blank" title="Website Profile"><img alt="Website Logo" width="22" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-256.png"> Personal website</a></code>
 ---
 
 <br />
@@ -22,17 +19,14 @@
 ### 🧑‍💻 Tech I work on: 
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="95" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="75" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" width="75" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" width="75" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" width="95" height="55"/>
 </p>
 
 ---
