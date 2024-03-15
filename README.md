@@ -32,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=aws,bash,docker,git,github,linux,python,terraform,vscode"/><br>
+    <img src="https://skillicons.dev/icons?i=aws,linux,python,docker,git" />
+    <img src="https://skillicons.dev/icons?i=,bash,docker,github,terraform,vscode"/><br>
 </div>
 
 <br/>
