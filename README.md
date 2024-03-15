@@ -17,7 +17,6 @@
 ###  Connect with me:
 -  Let's connect! --> <code><a href="https://www.linkedin.com/in/felicien-misseba/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png"> LinkedIn</a></code> <code><a href="https://felicienmisseba.link" target="_blank" title="Website Profile"><img alt="Website Logo" width="22" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-256.png"> Personal website</a></code>
 
- https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png
 <br />
 
 ### Languages and Tools:
