@@ -16,11 +16,12 @@
 
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felicien-misseba) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felicien-misseba) 
+
+
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://felicienmisseba.link) 
 <br />
 
-https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 
 
 ### Languages and Tools:
