@@ -11,7 +11,7 @@
 - ✍ You can find my projects here [portfolio]
 - 🌱 I’m currently learning AWS and Cloud technologies
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 3 languages ( English, French, Lingala)
+- ⚡ Fun fact: I speak 3 languages (English, French, Lingala)
 
 
 ###  Connect with me:
