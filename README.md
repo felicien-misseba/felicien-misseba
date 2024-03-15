@@ -1,26 +1,30 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=felicien-misseba.visitor-badge-query&query_only=true" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Felicien+Misseba!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Felicien+Misseba !;" />
 </h1>
 
-<h3 align="center">A DevOps enthousiast from the US 🇺🇸</h3>
+<h3 align="center">About Me</h3>
 
 <br/>
 
-<div align="center">
- 
- 
- 🌱 I’m currently learning **AWS, Docker, Terraform**
+ <div id="bio">
+  <ul align="center">
+    <li >I'm a DevOps enthousiast</li>
+    <li>I'm passionate about cloud technologies</li>
+    <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>   
+    <li>I'm currently seeking new opportunities to apply my knowledge and expertise in the cloud space.</li>
+    <li>I enjoy documenting my projects on my website to gain a deeper understanding of my work.</li>
+  </ul>
+</div>
 
- </div>
- 
+ <br/>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/felicien-misseba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
     <a href="https://www.felicienmisseba.link/" target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/felicienmisseba.link-grey?style=for-the-badge&url=https%3A%2F%2Ffelicienmisseba.link" />
   </a>
   <a href="https://github.com/felicien-misseba" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
@@ -29,11 +33,11 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,linux,python,docker,git" />
-    <img src="https://skillicons.dev/icons?i=,bash,docker,github,terraform,vscode"/><br>
+    <img src="https://skillicons.dev/icons?i=aws,linux,python,docker,git" /><br/>
+    <img src="https://skillicons.dev/icons?i=bash,docker,github,terraform,vscode"/><br>
 </div>
 
 <br/>
@@ -65,8 +69,5 @@
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
