@@ -7,17 +7,17 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Father, Husband, Cloud Passionate, and Creator!!
+## I'm a Devops passionate and Creator!!
 - ✍ You can find my projects here [portfolio]
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
+- 🌱 I’m currently learning AWS and Cloud technologies
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 3 languages ( English, French, Lingala)
 
 
 ###  Connect with me:
--  Let's connect! --> <code><a href="https://www.linkedin.com/in/felicien-misseba/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"> LinkedIn</a></code> <code><a href="https://felicienmisseba.link" target="_blank" title="Website Profile"><img alt="Website Logo" width="22" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-256.png"> Personal Blog</a></code>
- 
+-  Let's connect! --> <code><a href="https://www.linkedin.com/in/felicien-misseba/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png"> LinkedIn</a></code> <code><a href="https://felicienmisseba.link" target="_blank" title="Website Profile"><img alt="Website Logo" width="22" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-256.png"> Personal website</a></code>
+
+ https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png
 <br />
 
 ### Languages and Tools:
@@ -41,8 +41,8 @@
 <br />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=felicien-misseba&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=felicien-misseba&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=felicien-misseba&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=felicien-misseba&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felicien-misseba&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
